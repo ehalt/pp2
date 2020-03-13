@@ -1,6 +1,11 @@
 
 
 
+header {
+    background-image: url(img/1.jpg);
+}
+
+
 .to a {
     color:black;
 }
@@ -24,6 +29,7 @@
 
 
 
+
 .ttext a{
     color:#fff;
     padding: 10px 20px;
@@ -37,3 +43,102 @@
     background: #CDAE7F;
     transition: .5s;
 }
+
+
+.rmp1{
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+.cen {
+    margin-right: 9%;
+    margin-top:7%;
+    margin-left: 9%;
+}
+
+.cen h1 {
+    padding-bottom: 5%;
+}
+
+.cen p{
+    font-size: 17px;
+}
+.b{
+    font-weight: bold;
+}
+
+/*
+
+===========> skill section <===========
+
+*/
+
+
+.sk{
+    margin-top: 35%;
+    margin-left: 45%;
+    margin-bottom: 35%;
+}
+
+
+
+
+
+
+
+.skills{
+    width: 70%;
+    color:#fff;
+    margin-left: 17%;
+    margin-bottom: 20%;
+}
+.skills h1{
+    color: black;
+}
+.skills h3{
+    color: black;
+}
+
+.skills li {
+    margin : 20px 0;
+}
+
+.bar {
+    background: #353b48;
+    display:block;
+    height: 25px;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #2187e7b3;
+}
+
+.bar span {
+    height: 22.5px;
+    float: left;
+    background: #2187e7;
+    transition: .5s;
+}
+
+.html {
+    width: 90%;
+    border-radius: 5px;
+}
+.css {
+    width: 85%;
+    border-radius: 5px;
+}
+
+.javascript{
+    width:65%;
+    border-radius: 5px;
+}
+.jquery {
+    width:60%;
+    border-radius: 5px;
+}
+.mongodb {
+    width:45%;
+    border-radius: 5px;
+}
+
