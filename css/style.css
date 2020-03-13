@@ -142,3 +142,46 @@ header {
     border-radius: 5px;
 }
 
+
+/*
+
+   ==========> project section <============
+
+*/
+.proh{
+    margin-bottom:5%;
+}
+
+.mlc {
+    margin-left: 1%;
+}
+
+.mid {
+    margin-left: 2.2%;
+    margin-right: 2.2%;
+}
+.card {
+    margin-bottom: 13%;
+}
+.btn{
+    background-color: #FA6D59;
+    border:none;
+    padding: 9px 45px;
+}
+/* button margin */
+
+.bp3 {
+    margin-top: 5%;
+}
+.bp4 {
+    margin-top: 3%;
+}
+
+.bp5 {
+    margin-top:14%;
+}
+
+
+.bp6{
+    margin-top: 5%;
+}
